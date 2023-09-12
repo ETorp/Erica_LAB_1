@@ -1,2 +1,73 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<DOCTYPE html>
+    <html>
+        <head>
+            <title> Erica Torpey Lab 1, Interactive Workshop   </title>
+        </head>
+        <body>
+            <h1> Getting to Know Erica </h1>
+            <h2>Introduction</h2>
+            <P>Hi, im Erica, I'm a sophmore graphic design major. I'm from Burlington Massachusetts and Ill be 20 in march. My hobbies include paintng, sewing, crochet and baking. also my first word was shrek LOL</P>
+            <h2>Music</h2>
+            <ol>
+                <li> ALL Taylor Swift </li>
+                <li> ours by taylor swift</li>
+                <li> The last time by Taylor swift</li>
+                <li> Youre losing me by Taylor swift</li>
+                <li> All too well ten minute version by Taylor swift</li>
+                <li> ALL Jimmy Buffet</li>
+                <li> Brown eyed girl by jimmy Buffet</li>
+                <li> False confidence by Noah Kahan</li>
+                <li> If we were Vampires by Noah kahan and Wesley Schultz</li>
+                <li> Happier than Ever Billie Eilish</li>
+                <li> Margaritaville by Jimmy Buffet</li>
+                <li> Getaway Car by Taylor swift</li>
+                <li> The way i Loved you by Taylor Swift</li>
+                <li> paul revere by Noah kahan</li>
+                <li> call your mom by Noah Kahan</li>
+                <li> hold it down by Noah Kahan</li>
+                <li> my tears ricochet by Taylor Swift</li>
+                <li> this is me trying by taylor swift</li>
+                <li> Barefoot children by Jimmy buffet</li>
+                <li> Bubbles up by Jimmy Buffet</li>
+                <li> cielings by Lizzy McAplpine</li>
+                <li> Iris by the goo goo dolls</li>
+                <li> Clean by Taylor Swift</li>
+                <li> Dial Drunl by Noah Kahan FT Post Malone</li>
+                <li> Still into you by Paramore</li>
+                <li> Misery Business by Paramore</li>
+            </ol>
+            <h2> Food</h2>
+            <ul>
+                <li> Alfredo pasta </li>
+                <li> Chocolate</li>
+                <li> wings</li>
+                <li> cocoa pebbles</li>
+                <li> chips or crackers and dip</li>
+                <li> Chicken pot pie</li>
+                <li> Corn Chowder</li>
+                <li> Truffle Fries</li>
+                <li> Pickles</li> <a href="https://melissaknorris.com/best-homemade-pickles-recipe/"</a>
+            </ul>
+            <h2> Trips</h2>
+            <table>
+                <tr>
+                    <td>Row 1, cell 1</td>
+                    <td>Row 1, cell 2</td>
+                    <td>Row 1, cell 3</td>
+                </tr>
+                <tr>
+                    <td>Row 2, cell 1</td>
+                    <td>Row 2, cell 2</td>
+                    <td>Row 2, cell 3</td>
+                </tr>
+                <tr>
+                    <td>Row 3, cell 1</td>
+                    <td>Row 3, cell 2</td>
+                    <td>Row 3, cell 3</td>
+                </tr>
+            </table>
+        </body>
+    </html>
+</DOCTYPE>
